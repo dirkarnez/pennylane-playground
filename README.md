@@ -1,7 +1,4 @@
-python-playground
-=================
-[dirkarnez/python-portable](https://github.com/dirkarnez/python-portable)
-
-### Installing packages
-1. fill in package name with version to `requirements.txt`
-2. `install-package.cmd`
+pennylane-playground
+====================
+[Quantum Programming Software — PennyLane](https://pennylane.ai/)
+- [PennyLaneAI/pennylane: PennyLane is a cross-platform Python library for quantum computing, quantum machine learning, and quantum chemistry. Built by researchers, for research.](https://github.com/PennyLaneAI/pennylane)
